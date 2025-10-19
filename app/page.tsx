@@ -173,7 +173,7 @@ export default function Home() {
             {/* Full bleed background image */}
             <div className="fixed inset-0 z-0 animate-zoom-in">
               <Image
-                src="/rincon-puerto-rico.jpg"
+                src="/rincon_dome_beach.jpg"
                 alt="Rincon Puerto Rico Beach"
                 fill
                 className="object-cover"
@@ -189,7 +189,7 @@ export default function Home() {
 
             <div className="relative z-20 text-center animate-fade-in-up">
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-light text-white mb-4 tracking-wide drop-shadow-lg">
-                You're going to
+                You&apos;re going to
               </h2>
               <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-white mb-6 tracking-tight leading-none animate-title-appear">
                 <span className="inline-block bg-gradient-to-r from-orange-200 via-yellow-200 to-pink-200 bg-clip-text text-transparent drop-shadow-2xl">
@@ -230,7 +230,7 @@ export default function Home() {
             {/* Full bleed background */}
             <div className="fixed inset-0 z-0">
               <Image
-                src="/south_bahia_guanica.jpg"
+                src="/rincon_sunset_beach.jpg"
                 alt="Puerto Rico coastline"
                 fill
                 className="object-cover"
@@ -436,7 +436,7 @@ export default function Home() {
             {/* Full bleed background */}
             <div className="fixed inset-0 z-0">
               <Image
-                src="/south_malecon_guanica.jpg"
+                src="/rincon-puerto-rico.jpg"
                 alt="Puerto Rico coastline sunset"
                 fill
                 className="object-cover"
